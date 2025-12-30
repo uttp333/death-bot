@@ -1,6 +1,6 @@
 
 # ---------- CONFIG ----------
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "MTQ1NTY0NDc5MjA4NzExODAzMA.Gl9-ij.rOtZRa0LG-kgMI8_QbEQGxOqzOfg7jPl3Lffm4"
 
 # Guild/User Selection
 GUILD_ID = 123456789012345678   # The server to look for the user in
